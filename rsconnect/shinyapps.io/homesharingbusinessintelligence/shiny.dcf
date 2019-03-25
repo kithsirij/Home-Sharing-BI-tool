@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: homesharingbusinessintelligence
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 500309
+bundleId: 1629941
+url: https://homesharingbusinessintelligence.shinyapps.io/shiny/
+when: 1539018911.83842
